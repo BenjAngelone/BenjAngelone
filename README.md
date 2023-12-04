@@ -19,11 +19,11 @@ distintos proyectos que involucren participación activa y superación constante
 
 ## Tech Stack
 
-*Client:* HTML5, CSS3, JavaScript, React, , , , , 
+*Client:* HTML5, CSS3, JavaScript, React, Flutter, Tkinter, 
 
-*Server:* Node.js, Python, Go, C++, Dart ,
+*Server:* Node.js, Python, Go, C++, Dart 
 
-*Database:* PostgreSQL
+*Database:* MySQL
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
