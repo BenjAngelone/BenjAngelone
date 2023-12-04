@@ -4,13 +4,7 @@
 
 👨‍💻 Tengo experiencia trabajando con HTML5, CSS3, JavaScript, Node.js, C++, C, Assembler, Python , Flutter, React.js, , SQL y Mysql. Aplicando metodologías ágiles y haciendo uso de herramientas como Slack, Figma, Photoshop. 
 
-🏆 Soy un joven de 22 años, creativo, siempre con buena disposición, que disfruta
-de su tiempo libre enfrentando diversos proyectos tecnológicos con la
-finalidad de hacer más fácil distintas tareas de la vida cotidiana. En ellos
-encuentro principalmente una forma lúdica y productiva de aprender y
-conocer cómo funcionan las cosas que utilizamos a diario. Esto es un poco lo
-mismo que busco en un ambiente laboral: formarme con el desarrollo de
-distintos proyectos que involucren participación activa y superación constante.
+🏆 Soy un joven estudiante de quinto año de ingeniería en sistemas. Tengo  22 años, me considero creativo, siempre con buena disposición y disfruto de mi tiempo libre enfrentando diversos proyectos tecnológicos. En ellos encuentro principalmente una forma lúdica y productiva de aprender y conocer cómo funcionan las cosas que utilizamos a diario. Esto es un poco lo mismo que busco en un ambiente laboral: formarme con el desarrollo de distintos proyectos que involucren participación activa y superación constante.
 
 
 ## 🔗 Links
