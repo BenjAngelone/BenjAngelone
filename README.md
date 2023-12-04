@@ -21,28 +21,31 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank">
-    <img src="https://www.logolynx.com/images/logolynx/s_49/496eb3f39921d1a43dbf9d9b4520ec98.png" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="nodejs" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://www.pngkey.com/png/full/357-3576847_express-js-icon.png" alt="express" height="40"/>
-  </a>
+  En el desarrollo de aplicaciones web modernas, es fundamental aprovechar un conjunto diverso de tecnologías para garantizar una experiencia de usuario robusta y eficiente. Esto implica la utilización de lenguajes como 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JavaScript</a> para la lógica del lado del cliente, lo cual se potencia con frameworks como 
+  <a href="https://reactjs.org/" target="_blank">React</a> y 
+  <a href="https://vuejs.org/" target="_blank">Vue.js</a> para construir interfaces de usuario interactivas y reactivas.
+
+  En el ámbito del diseño y la presentación, se hace uso extensivo de 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">CSS</a> para dar estilo a las páginas web, y 
+  <a href="https://sass-lang.com/" target="_blank">Sass</a> para facilitar la escritura de estilos más mantenibles y estructurados. Además, las bibliotecas como 
+  <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a> y 
+  <a href="https://tailwindcss.com/" target="_blank">Tailwind CSS</a> ofrecen herramientas y componentes predefinidos que aceleran el desarrollo.
+
+  En cuanto a la gestión del estado de la aplicación, se recurre a tecnologías como 
+  <a href="https://redux.js.org/" target="_blank">Redux</a> para aplicaciones JavaScript más grandes, proporcionando un flujo de datos predecible y centralizado. Para el manejo de solicitudes HTTP y comunicación con el servidor, 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API" target="_blank">Fetch API</a> y 
+  <a href="https://axios-http.com/" target="_blank">Axios</a> son comúnmente empleados.
+
+  En el backend, el desarrollo se apoya en tecnologías como 
+  <a href="https://nodejs.org/" target="_blank">Node.js</a> para ejecutar JavaScript del lado del servidor, mientras que frameworks como 
+  <a href="https://expressjs.com/" target="_blank">Express.js</a> simplifican la creación de APIs RESTful. Para la persistencia de datos, 
+  <a href="https://www.mongodb.com/" target="_blank">MongoDB</a> y 
+  <a href="https://www.postgresql.org/" target="_blank">PostgreSQL</a> son opciones populares.
+
+  En resumen, el desarrollo web moderno implica una amalgama de tecnologías que abarcan desde el frontend hasta el backend, garantizando un rendimiento sólido, una interfaz atractiva y una gestión eficiente de los datos.
 </p>
+
 
 ## My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BenjAngelone&theme=highcontrast&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
