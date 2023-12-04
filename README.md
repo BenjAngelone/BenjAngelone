@@ -4,10 +4,18 @@
 
 👨‍💻 Tengo experiencia trabajando con HTML5, CSS3, JavaScript, Node.js, C++, C, Assembler, Python , Flutter, React.js, , SQL y Mysql. Aplicando metodologías ágiles y haciendo uso de herramientas como Slack, Figma, Photoshop. 
 
-🏆 Aspiro a ponerme a prueba constantemente para seguir aprendiendo. Soy una persona enfocada en mejorar el trabajo de equipo a través de un ida y vuelta fluido con mis compañeros, me adapto rápido a los entornos desconocidos y me dispongo siempre a aprender todo lo que me ayude a mejorar mi trabajo.
+🏆 Soy un joven de 22 años, creativo, siempre con buena disposición, que disfruta
+de su tiempo libre enfrentando diversos proyectos tecnológicos con la
+finalidad de hacer más fácil distintas tareas de la vida cotidiana. En ellos
+encuentro principalmente una forma lúdica y productiva de aprender y
+conocer cómo funcionan las cosas que utilizamos a diario. Esto es un poco lo
+mismo que busco en un ambiente laboral: formarme con el desarrollo de
+distintos proyectos que involucren participación activa y superación constante.
+
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benja-angelone)
+[![Proyectos]()]([https://www.linkedin.com/in/benja-angelone](https://drive.google.com/drive/folders/1CrBCaWJkID9Hk5Ha5fN3djbaU8K6ILSR))
 
 ## Tech Stack
 
