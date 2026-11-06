@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Open%20to%20work-Remote%20%7C%20C%C3%B3rdoba-2ea44f" />
 </p>
 
-<p align="center"><img src="koi/koi.gif" width="256" alt="My koi" /></p>p>
+<p align="center"><img src="koi/koi.gif" width="256" alt="My koi" /></p>
 
 I build AI-powered software end to end: **React/TypeScript** front ends, **Python** back ends and automation, **Flutter** mobile apps and **CI/CD on AWS**. I'm focused on taking AI from demo to production, from **LLM agents and workflow automation with Claude Code** to **computer vision running on-device, no cloud**.
 
